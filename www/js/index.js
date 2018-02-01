@@ -46,3 +46,8 @@ sourceType : Camera.PictureSourceType.SAVEDPHOTOALBUM
 }
 
 }
+
+
+// references
+// https://www.youtube.com/watch?v=vSqp3QwlGVk
+// https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/index.html
